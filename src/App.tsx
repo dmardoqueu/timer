@@ -3,7 +3,6 @@ import { defaultTheme } from './styles/themes/default';
 import { GlobalStyle } from './styles/global';
 import { Router } from './Router';
 import { BrowserRouter } from 'react-router-dom';
-import { createContext, useState } from 'react';
 import { CyclesContextProvider } from './contexts/CyclesContexts';
 
 export function App() {

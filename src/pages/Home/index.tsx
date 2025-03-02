@@ -2,8 +2,7 @@ import { HandPalm, Play } from 'phosphor-react'
 import { FormProvider, useForm } from 'react-hook-form'
 import { zodResolver } from '@hookform/resolvers/zod'
 import * as zod from 'zod'
-import { createContext, useContext, useEffect, useState } from 'react'
-import { differenceInSeconds } from 'date-fns'
+import { useContext } from 'react'
 
 import {
     HomeContainer,
