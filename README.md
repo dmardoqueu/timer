@@ -29,6 +29,9 @@ O **Timer** é um aplicativo para gerenciamento de tempo e ciclos de produtivida
 ## Capturas de Tela 🖼️
 Aqui estão algumas capturas de tela do aplicativo em funcionamento:
 
+![Home inicial](https://github.com/user-attachments/assets/13db0228-960c-455a-b6b4-8afa2dd74e85)
+![Home em andamento](https://github.com/user-attachments/assets/f02809a8-e4da-4eba-bee5-aea2ed4a8f98)
+![History](https://github.com/user-attachments/assets/24773ded-74b5-4074-8e12-f3051a19ba6e)
 
 ## Estrutura do Projeto 📂
 ```
